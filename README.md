@@ -36,7 +36,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/wave4parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/wave5parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/wave6parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/wave7parrot.gif" width="30" height="30"/>
 
 </div>
 
@@ -70,7 +69,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/wave4parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/wave5parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/wave6parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/wave7parrot.gif" width="30" height="30"/>
 </div>
 
 ## Skills
