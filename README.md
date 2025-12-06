@@ -41,8 +41,8 @@
 
 ## About me
 - Python == Awesome
-- Sometimes my programs compile. When they don't, I call that a Sponsored by Stack Overflow™ moment. 
-- I am not a bug hunter, rather a bug creator. 
+- Sometimes my programs compile. When they don't, I call that a Stack Overflow™ moment. 
+- Every bug I remove makes two more appear. I should be a magician.
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/wave1parrot.gif" width="30" height="30"/>
